@@ -1,0 +1,14 @@
+1|combo uno|1|250
+3|combo tres|1|350
+4|pizza de muzzarella|2|250
+5|pizza Napolitana|2|350
+6|pizza Jamón|2|400
+7|empanadas de carne|3|370
+8|empanadas de humita|3|350
+9|empanadas de verdura|3|300
+10|hamburguesa de carne|4|370
+11|hamburguesa de lenteja|4|350
+12|hamburguesa de pollo|4|300
+13|aguas saborizadas|5|100
+14|gaseosa|5|150
+15|cerveza|5|120
